@@ -26,6 +26,7 @@ The Power BI dashboard provides a "DNA" deep dive into each country's economy:
 *   📈 **Interactive Econometric Report:** [Click here to view the Python analysis](https://mohamed-eco.github.io/EcoForecast-Analysis/)
 *   📊 **Power BI Dashboard:** *(Insert NovyPro Link Here)*
 *   📝 **Full Article & Methodology (Medium):** *(Insert Medium Link Here)*
+*   💻 **Python Code (Jupyter Notebook):** [View the complete analysis code here](./EcoForecast_Analysis_Clean.ipynb)
 
 ## 👤 Author
 **Mohamed** | Macro-Financial Analyst & Data Scientist
